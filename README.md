@@ -26,3 +26,4 @@
 | concept   | text          | NOT NULL |
 | image     | ActiveStorage |          |
 |user       | references    |          |
+
